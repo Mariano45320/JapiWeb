@@ -1,0 +1,3 @@
+Pibes, para este proyecto hagamos lo siguiente, yo me encargo del diseño del index mientras que fijense si pueden buscar tanto el diseño de busqueda en categorias-
+y por otra parte de como hacerla funcionar, despues vamos viendo como hacerlo funcionar. Pero la idea seria que invstigue un poco y encontremos algo. fijense de tener-
+algo para el sabado asi nos sobra tiempo para mostrarle algo para los lunes.
