@@ -29,7 +29,7 @@ header{border-bottom: 5px solid rgb(34, 161, 66);}
 }
 
 #header h2{font-size: 2rem;}
-
+/*
 #header .btn button{
   position: absolute;
   left: 59%;
@@ -49,7 +49,7 @@ header{border-bottom: 5px solid rgb(34, 161, 66);}
   color: #ffbc0e;
   transform: scale(1.1);
 }
-
+*/
 #search_box{
   position: relative;
   width: 350px;
